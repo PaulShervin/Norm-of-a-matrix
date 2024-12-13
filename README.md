@@ -45,9 +45,8 @@ print(f"{norm:.2f}")
 <br>
 
 ### Infinity Norm of a Matrix
+<br>![output](image-5.png)
 <br>
-<br>!![Screenshot 2024-12-13 182246](https://github.com/user-attachments/assets/b2d4be57-f864-42a2-acb5-4a85aed6ad01)
-
 <br>
 
 ## Result
